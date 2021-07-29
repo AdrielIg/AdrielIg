@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola!! Me llamo Adriel 👋
+
+#### Sobre mi:
+Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT como desarrollador Trainee. Actualmente mis conocimientos son de frontend y backend con las tecnologias MERN. Pero pienso seguir aprendiendo mas lenguajes.Día a día obtengo nuevos conocimientos , soy una persona entusiasta comprometida a mis tareas que nunca se cansa de aprender.
+
+
 
 <!--
 **AdrielIg/AdrielIg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
