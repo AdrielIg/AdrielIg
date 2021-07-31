@@ -5,7 +5,7 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
 
 ### Redes 💬
  * Visitar [LinkedIn](https://www.linkedin.com/in/adriel-gomez/)
-  * Visitar [Página Web](https://adrielgomez.netlify.app/)
+  * Visitar [Portfolio](https://adrielgomez.netlify.app/)
 
 ### *✨Projectos para ver:✨*
 * #### ***Web Dev Arg***:
