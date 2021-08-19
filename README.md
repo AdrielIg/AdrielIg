@@ -27,7 +27,7 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
   * Descripcion: Utiliza la api de myanimelist, podes buscar animes y acceder a los detalles de cada uno. Para este caso utilice el framework de react usando hooks.
 * #### ***React Meals***:
    * Ver [Github](https://github.com/AdrielIg/ReactMeals)
-  * Visitar [Anime-Directory](https://meals-react.netlify.app/) ⚡
+  * Visitar [React Meals](https://meals-react.netlify.app/) ⚡
   * Descripcion: Utilizando react con el hook useContext implementa esa dinamica forma de agregar productos a un carrito
 * #### ***E-Commerce Backend***:
    * Ver [Github](https://github.com/AdrielIg/E-commerce-Backend)
