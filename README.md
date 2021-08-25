@@ -9,8 +9,9 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
  * Javascript
  * React
  * Node
- * Mongo
  * Express
+ * Mongo
+ * MySQL
 
 ### Redes 💬
  * Visitar [LinkedIn](https://www.linkedin.com/in/adriel-gomez/)
@@ -32,6 +33,11 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
 * #### ***E-Commerce Backend***:
    * Ver [Github](https://github.com/AdrielIg/E-commerce-Backend)
   * Descripcion: Utilizando Node,express y mongo diseñamos como Projecto Final el backend de un ecommerce ficticio el cual vamos a ir agregandole funciones al pasar la cursada en coderhouse
+* #### ***Adro-chat***:
+  * Ver [Github](https://github.com/AdrielIg/Adro-chat)
+  * Visitar [Adro-chat](https://adro-chat.netlify.app) ⚡
+  * Descripcion: Un simple chat donde podes hablar con cualquier otro usuario conectado. Planeo pasarlo a sockets y utilizar mongo atlas en vez de firestore
+
 
 <!--
 **AdrielIg/AdrielIg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
