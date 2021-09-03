@@ -36,7 +36,7 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
 * #### ***Adro-chat***:
   * Ver [Github](https://github.com/AdrielIg/Adro-chat)
   * Visitar [Adro-chat](https://adro-chat.netlify.app) ⚡
-  * Descripcion: Un simple chat donde podes hablar con cualquier otro usuario conectado. Planeo pasarlo a sockets y utilizar mongo atlas en vez de firestore
+  * Descripcion: Un simple chat donde podes hablar con cualquier otro usuario conectado. No me hago cargo del contenido de los mensajes :eyes::eyes:
 
 
 <!--
