@@ -30,7 +30,7 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
 * #### ***React Meals***:
    * Ver [Github](https://github.com/AdrielIg/ReactMeals)
   * Visitar [React Meals](https://meals-react.netlify.app/) ⚡
-  * Descripcion: Utilizando react con el hook useContext implementa esa dinamica forma de agregar productos a un carrito
+  * Descripcion: App de comida, donde se implementa la funcionalidad de carrito utilizando useReducer
 * #### ***E-Commerce Backend***:
    * Ver [Github](https://github.com/AdrielIg/E-commerce-Backend)
   * Descripcion: Utilizando Node,express y mongo diseñamos como Projecto Final el backend de un ecommerce ficticio el cual vamos a ir agregandole funciones al pasar la cursada en coderhouse
