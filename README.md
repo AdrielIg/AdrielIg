@@ -22,11 +22,11 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
 * #### ***Web Dev Arg***:
    * Ver [Github](https://github.com/AdrielIg/WebDevArg)
   * Visitar [Web Dev Arg](https://webdevarg.netlify.app/) ⚡
-  * Descripcion: Un ejemplo de una página web que ofrece servicios tales como el desarrollo y diseño de páginas web
+  * Descripcion: Página web que ofrece servicios tales como el desarrollo y diseño de páginas web
 * #### ***Anime-Directory***:
    * Ver [Github](https://github.com/AdrielIg/Anime-directory-React)
   * Visitar [Anime-Directory](https://anime-directory.netlify.app/)⚡ 
-  * Descripcion: Utiliza la api de myanimelist, podes buscar animes y acceder a los detalles de cada uno. Para este caso utilice el framework de react usando hooks.
+  * Descripcion: Utiliza la api de myanimelist, podes buscar animes y acceder a los detalles de cada uno. Para este caso utilice el framework react usando hooks.
 * #### ***React Meals***:
    * Ver [Github](https://github.com/AdrielIg/ReactMeals)
   * Visitar [React Meals](https://meals-react.netlify.app/) ⚡
