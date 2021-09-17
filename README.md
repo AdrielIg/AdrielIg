@@ -5,13 +5,14 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
 
 ### Lenguajes y Herramientas:
  * HTML
- * CSS
+ * CSS (SASS)
  * Javascript
  * React
  * Node
  * Express
  * Mongo
  * MySQL
+ * Java
 
 ### Redes 💬
  * Visitar [LinkedIn](https://www.linkedin.com/in/adriel-gomez/)
