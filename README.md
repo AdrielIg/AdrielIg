@@ -8,6 +8,7 @@ Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT 
  * CSS (SASS)
  * Javascript
  * React
+ * Redux
  * Node
  * Express
  * Mongo
