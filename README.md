@@ -1,7 +1,7 @@
 ### Hola!! Me llamo Adriel 👋
 
 #### Sobre mi:
-Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT como desarrollador Trainee, empece a estudiar desde fines de 2020 y desde ese momento no puedo para de aprender de este basto y maravilloso mundo que es la tencología, tambien me fascina el mundo crypto. Actualmente me encuentro cursando en Digital House la carrera de Certified Tech Developer gracias a una beca otorgada por Globant y Mercado Libre, además hago un curso de backend en Coder House para ampliar mis conocimientos en esa área. Día a día obtengo nuevos conocimientos , soy una persona entusiasta comprometida a mis tareas que nunca se cansa de aprender.
+Tengo 23 años, soy una persona autodidacta en busca de mi primer trabajo en IT como desarrollador Trainee, empece a estudiar desde fines de 2020 y desde ese momento no puedo parar de aprender de este vasto y maravilloso mundo que es la tecnología, tambien me fascina el mundo crypto. Actualmente me encuentro cursando en Digital House la carrera de Certified Tech Developer gracias a una beca otorgada por Globant y Mercado Libre, además hago un curso de backend en Coder House para ampliar mis conocimientos en esa área. Día a día obtengo nuevos conocimientos , soy una persona entusiasta comprometida a mis tareas que nunca se cansa de aprender.
 
 ### Lenguajes y Herramientas:
  * HTML
