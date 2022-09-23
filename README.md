@@ -1,7 +1,7 @@
 ### Hola!! Me llamo Adriel 👋
 
 #### Sobre mi:
-Actualmente trabajando como Frontend Dev en BlueAlba desde 2021, aspiro a convertirme en full stack y en blockchain dev.
+Actualmente trabajando como Frontend Dev en BlueAlba desde 2021 como desarrollador y tomando entrevistas tecnicas, aspiro a convertirme en full stack. 
 
 ### Lenguajes y Herramientas:
  * HTML
