@@ -13,7 +13,11 @@ Actualmente trabajando como Frontend Dev en BlueAlba desde 2021, aspiro a conver
  * Express
  * Mongo
  * MySQL
- * Java
+ * Zustand
+ * TypeScript
+ * Material UI
+ * Docker
+ * Git
 
 ### Redes 💬
  * Visitar [LinkedIn](https://www.linkedin.com/in/adriel-gomez/)
